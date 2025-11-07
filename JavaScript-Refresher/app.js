@@ -1,8 +1,27 @@
+// Array & Array Methods like map()
+const hobbies = ["sports", "Cooking", "Reading"];
+console.log(hobbies[0]);
 
+// access JavaScript uitlity methods with dot notation
+hobbies.push("Working"); // adds working to hobbies array
+console.log(hobbies); // shows full list of array in terminal
 
+const index = hobbies.findIndex((item) => {
+  return item === "sports";
+});
 
+console.log(index); // returns index of sports in the console
 
+// shorter way of writing the above arrow fucntion 
+const index1 = hobbies.findIndex((item) => item === "sports");
+console.log(index1)
 
+// very common utility method map() method
+const editedHobbies = hobbies.map((item) => item + "!"); // add ! to every item in array
+console.log(editedHobbies);
+
+const objectHobbies = hobbies.map((item) => ({text: item})); // Turns arrary into object list
+console.log(objectHobbies);
 
 
 // Revisiting Objects & Classes 

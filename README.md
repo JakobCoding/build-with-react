@@ -62,11 +62,11 @@ Each app is structured for clarity — making it easy to extend or adapt for pro
 This repository reflects my expertise in building modern, maintainable, and production-ready React applications — from single-page UIs to full-stack Next.js platforms.
 It’s a hands-on demonstration of practical React knowledge, applied across multiple real-world scenarios.
 
-📫 Let’s Connect
+👉 Let’s Connect
 
 If you’d like to discuss React, modern web development, or potential collaboration opportunities:
 
-👉 
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/jakechalmers86/)  
 🌐 [Portfolio](#)  
 📧 [Email](mailto:jacobcoding@hotmail.com)
